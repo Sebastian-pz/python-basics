@@ -32,7 +32,7 @@ print(type(a), type(b), type(c))
 
 # List
 a = [1,2,3]
-b = ["1", "2", "3"]
+b = range(1, 10)
 c = [True, False, False]
 print(type(a), type(b), type(c))
 
